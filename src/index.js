@@ -13,7 +13,7 @@ import axios from "axios";
  
 // dotenv.config();
 
-axios.defaults.baseURL = process.env.REACT_APP_API_URL || "https://localhost:3001"
+axios.defaults.baseURL = process.env.REACT_APP_API_URL 
 
 
 ReactDOM.render(
