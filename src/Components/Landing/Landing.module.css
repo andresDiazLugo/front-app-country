@@ -10,7 +10,6 @@
     border-top-right-radius: 45px; 
     color:var(--color-blanco-h1);
     cursor: pointer;
-    opacity: 80%;
     -webkit-box-shadow: 2px 4px 168px 89px rgba(0,0,0,1);
     -moz-box-shadow: 2px 4px 168px 89px rgba(0,0,0,1);
     box-shadow: 2px 4px 168px 89px rgba(0,0,0,1);
@@ -27,7 +26,7 @@
     animation: spin013151 1s linear infinite;
     border-radius: 100%;
     margin-left: 34%;
-    opacity: 100%;
+    
   }
   
   @keyframes spin013151 {
